@@ -52,8 +52,8 @@ a {
   box-sizing: border-box;
   overflow: hidden; }
   .box p {
-    color: #b3b3b3;
-    font-size: 0.9rem; }
+    font-size: 0.9rem;
+    color: #b3b3b3; }
 
 .dark-box, .dark {
   margin-top: 40px;
